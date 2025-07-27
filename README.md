@@ -21,11 +21,12 @@ This project is a real-time trash object detection system powered by YOLOv8. It 
 
 ## 🖼️ Detection Preview
 
-| Uploaded Image | Detection Output |
+| Uploaded Image |
 |----------------|------------------|
 | <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/98796d97-ff6d-414c-adec-b8ecbf65626b" />
- | <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9555bba-e1cf-4c93-b256-17054f2653ef" />
- |
+| Trash Detected |
+|----------------|------------------|
+ <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9555bba-e1cf-4c93-b256-17054f2653ef" />
 
 > 📌 Example shows detection of plastic bottle, paper, and wrappers.
 
